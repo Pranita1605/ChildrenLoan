@@ -134,6 +134,7 @@ public class CustomerController {
 		 List<Customer> list = ls.getAllCustomerData();
 		return new ResponseEntity<List<Customer>>(list, HttpStatus.OK);
 		  
+System.out.println("Github practice");
 	  }
 	  
 	  
