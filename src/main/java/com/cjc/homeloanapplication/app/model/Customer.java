@@ -29,6 +29,8 @@ private String wsr;
 	private String customerAge;
 	private String customerGender;
 	private String customerEmail;
+
+private String rrr;
 	
 	private String customerMobileNumber;
 	private String customerAdditionalMobileNumber;
