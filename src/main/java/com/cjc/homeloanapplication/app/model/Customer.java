@@ -35,6 +35,8 @@ private String wsr;
 	private Double customerAmountSanctioned;
 	private Double customerTotalLoanRequired;
 	
+private String hhh;
+
 	private Double amtDisburse;
 	private Double roi;
 	private Integer loanTenure;
